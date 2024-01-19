@@ -12,7 +12,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://gomailmerge.com">Go Mail Merge</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https:/autopagerank.com">Auto Page Rank</a>
+  <a href="https:/autopageindexer.com">Auto Page Indexer</a>
   <br />
   <hr />
 </div>
@@ -22,7 +22,7 @@
 Go Ideal Software is a custom software solutions agency that focuses on building multitenant SaaS products. Here are a few of the products that we have built
 
 - [Atribusi](https://atribusi.com)  Real-time web analytics. (Node.js & TypeScript & Nest.js | PostgreSQL, TimescaleDB, Google Cloud Run, Next.js)
-- [AutoPageRank](https://autopagerank.com) Automatically index all of your websites' pages both new and old (Node.js & TypeScript & Nest.js | PostgreSQL, Google Cloud Run, Next.js)
+- [Auto Page Indexer](https://autopageindexer.com) Automatically index all of your websites' pages both new and old (Node.js & TypeScript & Nest.js | PostgreSQL, Google Cloud Run, Next.js)
 
 
 ## 🎁 Repositories
@@ -42,7 +42,6 @@ You can reach out to us via various channels:
 You can learn more about Go Ideal Software with these resources:
 
 - [Go Ideal Software Blog](https://goidealsoftware.com/blog): Case studies, random learnings & more
-- [Success Stories](https://www.prisma.io/showcase): Learn how people successfully use Prisma in production
 
 </details>
 
